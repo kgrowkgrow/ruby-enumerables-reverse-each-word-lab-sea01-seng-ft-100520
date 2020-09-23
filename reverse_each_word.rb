@@ -1,4 +1,4 @@
-require 'pry'
+
 
 =begin
 def reverse_each_word(sentence)
