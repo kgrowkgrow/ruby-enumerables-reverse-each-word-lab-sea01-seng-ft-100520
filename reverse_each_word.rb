@@ -2,7 +2,6 @@
 
 =begin
 def reverse_each_word(sentence)
-  #normal_array = []
   final_array = []
   ben_wyken = sentence.split(" ")
   ben_wyken.each do |word|
